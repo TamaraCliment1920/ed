@@ -1,0 +1,5 @@
+/home/administrador/ed/CHolaMundo/CHolaMundo/bin/Debug/CHolaMundo.exe
+/home/administrador/ed/CHolaMundo/CHolaMundo/bin/Debug/CHolaMundo.pdb
+/home/administrador/ed/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.csprojAssemblyReference.cache
+/home/administrador/ed/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.exe
+/home/administrador/ed/CHolaMundo/CHolaMundo/obj/x86/Debug/CHolaMundo.pdb
