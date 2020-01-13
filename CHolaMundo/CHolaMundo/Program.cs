@@ -10,9 +10,10 @@ namespace CHolaMundo
 			string nombre = Console.ReadLine();
 			Console.WriteLine("Hola " +  nombre);
 
-            Console.WriteLine("Dime el primer numero:");
+            Console.WriteLine("Dime tu edad:");
             int edad = int.Parse(Console.ReadLine());
-            Console.WriteLine("Tu edad en 2021 es  " + ++edad);
+            Console.WriteLine(nombre +" Tu edad en 2021 es  " + ++edad);
         }
     }
 }
+
