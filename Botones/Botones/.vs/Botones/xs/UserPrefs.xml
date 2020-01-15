@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E7E670D0-DF8A-45E7-9B4E-7B8A1248FDBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Botones/MainWindow.cs">
+    <Files>
+      <File FileName="Botones/MainWindow.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Botones" expanded="True">
+            <Node name="Botones" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Botones PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

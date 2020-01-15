@@ -1,0 +1,5 @@
+/home/administrador/ed/Botones/Botones/Botones/bin/Debug/Botones.exe
+/home/administrador/ed/Botones/Botones/Botones/bin/Debug/Botones.pdb
+/home/administrador/ed/Botones/Botones/Botones/obj/x86/Debug/Botones.csprojAssemblyReference.cache
+/home/administrador/ed/Botones/Botones/Botones/obj/x86/Debug/Botones.exe
+/home/administrador/ed/Botones/Botones/Botones/obj/x86/Debug/Botones.pdb
