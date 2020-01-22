@@ -23,6 +23,10 @@ public partial class MainWindow
 
 	private global::Gtk.Button button3;
 
+	private global::Gtk.Button BAleatorio;
+
+	private global::Gtk.VBox vbox1;
+
 	protected virtual void Build()
 	{
 		global::Stetic.Gui.Initialize(this);
@@ -127,17 +131,35 @@ public partial class MainWindow
 		w9.Position = 2;
 		w9.Expand = false;
 		w9.Fill = false;
+		// Container child vbox2.Gtk.Box+BoxChild
+		this.BAleatorio = new global::Gtk.Button();
+		this.BAleatorio.CanFocus = true;
+		this.BAleatorio.Name = "BAleatorio";
+		this.BAleatorio.UseUnderline = true;
+		this.BAleatorio.Label = global::Mono.Unix.Catalog.GetString("Aleatorio");
+		this.vbox2.Add(this.BAleatorio);
+		global::Gtk.Box.BoxChild w10 = ((global::Gtk.Box.BoxChild)(this.vbox2[this.BAleatorio]));
+		w10.Position = 3;
+		w10.Expand = false;
+		w10.Fill = false;
+		// Container child vbox2.Gtk.Box+BoxChild
+		this.vbox1 = new global::Gtk.VBox();
+		this.vbox1.Name = "vbox1";
+		this.vbox2.Add(this.vbox1);
+		global::Gtk.Box.BoxChild w11 = ((global::Gtk.Box.BoxChild)(this.vbox2[this.vbox1]));
+		w11.Position = 4;
 		this.Add(this.vbox2);
 		if ((this.Child != null))
 		{
 			this.Child.ShowAll();
 		}
-		this.DefaultWidth = 520;
-		this.DefaultHeight = 176;
+		this.DefaultWidth = 343;
+		this.DefaultHeight = 410;
 		this.Show();
 		this.DeleteEvent += new global::Gtk.DeleteEventHandler(this.OnDeleteEvent);
 		this.button1.Clicked += new global::System.EventHandler(this.OnButton1Clicked);
 		this.button2.Clicked += new global::System.EventHandler(this.OnButton2Clicked);
 		this.button3.Clicked += new global::System.EventHandler(this.OnButton3Clicked);
+		this.BAleatorio.Clicked += new global::System.EventHandler(this.OnBAleatorioClicked);
 	}
 }
