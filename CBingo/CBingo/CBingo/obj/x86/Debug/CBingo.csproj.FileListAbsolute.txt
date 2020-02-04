@@ -1,0 +1,6 @@
+/home/tamfue/ed/CBingo/CBingo/CBingo/bin/Debug/CBingo.exe
+/home/tamfue/ed/CBingo/CBingo/CBingo/bin/Debug/CBingo.pdb
+/home/tamfue/ed/CBingo/CBingo/CBingo/obj/x86/Debug/CBingo.csprojAssemblyReference.cache
+/home/tamfue/ed/CBingo/CBingo/CBingo/obj/x86/Debug/CBingo.csproj.CoreCompileInputs.cache
+/home/tamfue/ed/CBingo/CBingo/CBingo/obj/x86/Debug/CBingo.exe
+/home/tamfue/ed/CBingo/CBingo/CBingo/obj/x86/Debug/CBingo.pdb
