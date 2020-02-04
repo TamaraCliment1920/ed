@@ -1,0 +1,6 @@
+/home/tamfue/ed/PruebaBOtones/PruebaBOtones/bin/Debug/PruebaBOtones.exe
+/home/tamfue/ed/PruebaBOtones/PruebaBOtones/bin/Debug/PruebaBOtones.pdb
+/home/tamfue/ed/PruebaBOtones/PruebaBOtones/obj/x86/Debug/PruebaBOtones.csprojAssemblyReference.cache
+/home/tamfue/ed/PruebaBOtones/PruebaBOtones/obj/x86/Debug/PruebaBOtones.csproj.CoreCompileInputs.cache
+/home/tamfue/ed/PruebaBOtones/PruebaBOtones/obj/x86/Debug/PruebaBOtones.exe
+/home/tamfue/ed/PruebaBOtones/PruebaBOtones/obj/x86/Debug/PruebaBOtones.pdb

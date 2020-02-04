@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0A7C8D55-6822-43BC-9EA6-A602C296A8F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.PruebaBOtones PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaBOtones/MainWindow.cs">
+    <Files>
+      <File FileName="PruebaBOtones/Program.cs" Line="1" Column="1" />
+      <File FileName="PruebaBOtones/MainWindow.cs" Line="28" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PruebaBOtones" expanded="True">
+            <Node name="PruebaBOtones" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
