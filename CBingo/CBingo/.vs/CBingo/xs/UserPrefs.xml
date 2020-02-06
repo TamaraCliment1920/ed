@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{2214B87C-68EB-4138-9636-36CA9C8DA719}|Default">
   <MonoDevelop.Ide.ItemProperties.CBingo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CBingo/MainWindow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CBingo/Panel.cs">
     <Files>
-      <File FileName="CBingo/MainWindow.cs" Line="29" Column="44" />
-      <File FileName="CBingo/Panel.cs" Line="27" Column="30" />
-      <File FileName="CBingo/Bombo.cs" Line="23" Column="43" />
+      <File FileName="CBingo/MainWindow.cs" Line="31" Column="1" />
+      <File FileName="CBingo/Panel.cs" Line="35" Column="6" />
+      <File FileName="CBingo/Bombo.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CBingo" expanded="True">
             <Node name="CBingo" expanded="True">
-              <Node name="MainWindow.cs" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Panel.cs" selected="True" />
             </Node>
           </Node>
         </State>
