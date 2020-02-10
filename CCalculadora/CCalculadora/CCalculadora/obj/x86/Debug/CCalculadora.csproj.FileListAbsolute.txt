@@ -1,0 +1,5 @@
+/home/administrador/ed/CCalculadora/CCalculadora/CCalculadora/bin/Debug/CCalculadora.exe
+/home/administrador/ed/CCalculadora/CCalculadora/CCalculadora/bin/Debug/CCalculadora.pdb
+/home/administrador/ed/CCalculadora/CCalculadora/CCalculadora/obj/x86/Debug/CCalculadora.csprojAssemblyReference.cache
+/home/administrador/ed/CCalculadora/CCalculadora/CCalculadora/obj/x86/Debug/CCalculadora.exe
+/home/administrador/ed/CCalculadora/CCalculadora/CCalculadora/obj/x86/Debug/CCalculadora.pdb
