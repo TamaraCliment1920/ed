@@ -47,7 +47,7 @@ public partial class MainWindow
 
 	private global::Gtk.HBox hbox5;
 
-	private global::Gtk.Button BPunto;
+	private global::Gtk.Button BComa;
 
 	private global::Gtk.Button BCero;
 
@@ -304,15 +304,15 @@ public partial class MainWindow
 		this.hbox5.Name = "hbox5";
 		this.hbox5.Spacing = 6;
 		// Container child hbox5.Gtk.Box+BoxChild
-		this.BPunto = new global::Gtk.Button();
-		this.BPunto.WidthRequest = 43;
-		this.BPunto.HeightRequest = 40;
-		this.BPunto.CanFocus = true;
-		this.BPunto.Name = "BPunto";
-		this.BPunto.UseUnderline = true;
-		this.BPunto.Label = global::Mono.Unix.Catalog.GetString(".");
-		this.hbox5.Add(this.BPunto);
-		global::Gtk.Box.BoxChild w21 = ((global::Gtk.Box.BoxChild)(this.hbox5[this.BPunto]));
+		this.BComa = new global::Gtk.Button();
+		this.BComa.WidthRequest = 43;
+		this.BComa.HeightRequest = 40;
+		this.BComa.CanFocus = true;
+		this.BComa.Name = "BComa";
+		this.BComa.UseUnderline = true;
+		this.BComa.Label = global::Mono.Unix.Catalog.GetString(",");
+		this.hbox5.Add(this.BComa);
+		global::Gtk.Box.BoxChild w21 = ((global::Gtk.Box.BoxChild)(this.hbox5[this.BComa]));
 		w21.Position = 0;
 		w21.Expand = false;
 		w21.Fill = false;
@@ -377,7 +377,7 @@ public partial class MainWindow
 		this.BUno.Clicked += new global::System.EventHandler(this.OnBUnoClicked);
 		this.BDos.Clicked += new global::System.EventHandler(this.OnBDosClicked);
 		this.BTres.Clicked += new global::System.EventHandler(this.OnBTresClicked);
-		this.BPunto.Clicked += new global::System.EventHandler(this.OnBPuntoClicked);
+		this.BComa.Clicked += new global::System.EventHandler(this.OnBComaClicked);
 		this.BCero.Clicked += new global::System.EventHandler(this.OnBCeroClicked);
 	}
 }

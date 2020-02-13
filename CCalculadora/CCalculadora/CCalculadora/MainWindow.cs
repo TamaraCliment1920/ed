@@ -4,7 +4,7 @@ using Gtk;
 public partial class MainWindow : Gtk.Window
 {
 
-   
+    int contador;
 
     public MainWindow() : base(Gtk.WindowType.Toplevel)
     {
@@ -86,20 +86,31 @@ public partial class MainWindow : Gtk.Window
         Pantalla.InsertText(display + "9");
     }
 
-    protected void OnBPuntoClicked(object sender, EventArgs e)
+    protected void OnBComaClicked(object sender, EventArgs e)
     {
-        String display = Pantalla.Text.ToString();
-        Pantalla.DeleteText(0, Pantalla.Text.Length);
-        Pantalla.InsertText(display + ".");
+        if (contador == 0)
+        {
+            String display = Pantalla.Text.ToString();
+            Pantalla.DeleteText(0, Pantalla.Text.Length);
+            Pantalla.InsertText(display + ",");
+            contador++;
+        }
     }
 
     protected void OnBVaciarClicked(object sender, EventArgs e)
     {
-
+        Pantalla.DeleteText(0, Pantalla.Text.Length);
+        contador = 0;
     }
 
     protected void OnBCClicked(object sender, EventArgs e)
     {
+        Pantalla.DeleteText(Pantalla.Text.Length - 1, Pantalla.Text.Length);
 
+        String display = Pantalla.Text.ToString();
+        if (!display.Contains(","))
+        {
+            contador=0;
+        }
     }
 }

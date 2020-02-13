@@ -338,15 +338,15 @@
             <property name="MemberName" />
             <property name="Spacing">6</property>
             <child>
-              <widget class="Gtk.Button" id="BPunto">
+              <widget class="Gtk.Button" id="BComa">
                 <property name="MemberName" />
                 <property name="WidthRequest">43</property>
                 <property name="HeightRequest">40</property>
                 <property name="CanFocus">True</property>
                 <property name="Type">TextOnly</property>
-                <property name="Label" translatable="yes">.</property>
+                <property name="Label" translatable="yes">,</property>
                 <property name="UseUnderline">True</property>
-                <signal name="Clicked" handler="OnBPuntoClicked" />
+                <signal name="Clicked" handler="OnBComaClicked" />
               </widget>
               <packing>
                 <property name="Position">0</property>
