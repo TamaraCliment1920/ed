@@ -20,3 +20,12 @@ apt update
 
 apt install -y monodevelop
 
+20200302
+
+Instalación de Android Studio
+
+  En ubuntu 16.04 instalar previamente: lib32z1 lib32ncurses5 lib32stdc++6 qemu-kvm libvirt-bin
+
+https://developer.android.com/studio
+
+
