@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="txt_num1">Dame el Primer número</string>
+    <string name="txt_num2">Dame el Segundo número </string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="resultado">Resultado</string>
+</resources>
